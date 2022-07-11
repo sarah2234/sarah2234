@@ -1,16 +1,33 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**sarah2234/sarah2234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=🐣%20Welcome!&fontSize=90)
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah2234&layout=compact" height="150">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://solved.ac/profile/sarah2234">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sarah2234" alt="Solved.ac Profile" height="150">
+</a>
+
+<hr width="100%">
+
+### ✍️Language
+
+<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=C&logoColor=white"/>
+<img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white"/>
+<img alt="C#" src ="https://img.shields.io/badge/C%23-239120.svg?&style=flat&logo=CSharp&logoColor=white"/>
+<img alt="Java" src ="https://img.shields.io/badge/Java-FA9332.svg?&style=flat&logo=Java&logoColor=white"/>
+<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
+<img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
+
+### 📕Libraries and API
+<img alt="OpenGL" src ="https://img.shields.io/badge/OpenGL-5586A4.svg?&style=flat&logo=OpenGL&logoColor=white"/>
+<img alt="DirectX 11" src ="https://img.shields.io/badge/DirectX 11-003D10.svg?&style=flat&logo=Microsoft&logoColor=white"/>
+<img alt="Selenium" src ="https://img.shields.io/badge/Selenium-43B02A.svg?&style=flat&logo=Selenium&logoColor=white"/>
+
+### 🎮Game Engines
+<img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=flat&logo=Unity&logoColor=black"/>
+<img alt="Unreal Engine" src ="https://img.shields.io/badge/Unreal Engine-0E1128.svg?&style=flat&logo=Unreal Engine&logoColor=white"/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+
+</div>
