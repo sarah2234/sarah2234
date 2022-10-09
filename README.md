@@ -8,6 +8,8 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sarah2234" alt="Solved.ac Profile" height="150">
 </a>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/sarah2234?theme=dark&font=UnifrakturCook&ext=heatmap)
+
 <hr width="100%">
 
 ### ✍️Language
@@ -17,6 +19,7 @@
 <img alt="Java" src ="https://img.shields.io/badge/Java-FA9332.svg?&style=flat&logo=Java&logoColor=white"/>
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
 <img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
+<img alt="Javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"> 
 
 ### 📕Libraries and API
 ###### Click badges to check repos!
