@@ -2,15 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=🐣%20Welcome!&fontSize=90)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah2234&layout=compact" height="150">
-
-<a href="https://solved.ac/profile/sarah2234">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sarah2234" alt="Solved.ac Profile" height="150">
-</a>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/sarah2234?theme=dark&font=UnifrakturCook&ext=heatmap)
-
-<hr width="100%">
+![LeetCode Stats](https://leetcard.jacoblin.cool/sarah2234?theme=dark&font=Cuprum&ext=activity)
 
 ### ✍️Language
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=C&logoColor=white"/>
