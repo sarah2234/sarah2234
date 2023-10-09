@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=🐣%20Welcome!&fontSize=90)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/sarah2234?theme=dark&font=Cuprum&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sarah2234?theme=dark&font=Cuprum&ext=heatmap)
 
 ### ✍️Language
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=C&logoColor=white"/>
